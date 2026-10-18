@@ -30,5 +30,5 @@ jwt:
 server:
   port: 8090
 
-host_name_verification:
-  port: "http://localhost:5173"
+allowed_host:
+  verification_port: "http://localhost:5173"
