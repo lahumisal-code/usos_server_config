@@ -31,4 +31,4 @@ server:
   port: 8090
 
 allowed_host:
-  verification_port: http://localhost:5173,http://localhost:8090
+  verification_port: "localhost:5173,localhost:8090"
